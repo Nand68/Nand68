@@ -1,5 +1,5 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50;">Hi 👋, I'm Nandkishor Dhadhal</h1>
-<h3 align="center" style="font-family: 'Arial', sans-serif; color: #555;">Transforming Ideas into Code</h3>
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #00BFFF;">Hi 👋, I'm Nandkishor Dhadhal</h1>
+<h3 align="center" style="font-family: 'Arial', sans-serif; color: #FF6347;">Transforming Ideas into Code</h3>
 
 ---
 
@@ -22,9 +22,6 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <a href="#" target="_blank"><img src="#" alt="#" width="" height="" style='display:none'/></a> <!-- Placeholder for any additional tools -->
 </p>
 
@@ -32,13 +29,13 @@
 
 ## 📊 GitHub Stats
 <p align='center'>
-  <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs?username=Nand68&show_icons=true&locale=en&layout=compact' alt='Top Languages' />
+  <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs?username=Nand68&show_icons=true&locale=en&layout=compact&theme=radical' alt='Top Languages' />
 </p>
 
 <p align='center'>
-  <img align='center' src='https://github-readme-streak-stats.herokuapp.com/?user=Nand68&' alt='Streak Stats' />
+  <img align='center' src='https://github-readme-streak-stats.herokuapp.com/?user=Nand68&theme=radical' alt='Streak Stats' />
 </p>
 
 ---
 
-<h4 align='center'>Thank you for visiting my profile! 😊</h4>
+<h4 align='center' style='color: #FF4500;'>Thank you for visiting my profile! 😊</h4>
