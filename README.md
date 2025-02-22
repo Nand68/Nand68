@@ -20,3 +20,8 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nand68&theme=dark&hide_border=true" alt="Nand68" />
 </p>
+
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nand68&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="Nand68" />
+</p>
