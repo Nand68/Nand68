@@ -15,4 +15,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nand68&show_icons=true&locale=en&layout=compact" alt="Nand68" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nand68&" alt="Nand68" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nand68&theme=dark&hide_border=true" alt="Nand68" />
+</p>
+
