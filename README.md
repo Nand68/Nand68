@@ -24,7 +24,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nand68&theme=dark&hide_border=true" alt="Nand68" />
 </p>
 
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Quote with Author" />
-</p>
 
