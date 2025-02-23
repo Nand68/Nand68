@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandkishor Dhadhal</h1>
 <h3 align="center">Transforming Ideas into Code</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=ff5733&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+My+GitHub!;MERN+Stack+Developer;DSA+Lover+%F0%9F%92%AA;Open-Source+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
